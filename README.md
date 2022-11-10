@@ -5,7 +5,7 @@
 
 ## my projects:
 - minCPT : a minimalist alternative to cmake which can be found [here](https://github.com/yasserhcn/MinCPT)
-i consider it 50 % done
+it is currently 70 % done
 
 <!--
 **yasserhcn/yasserhcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
