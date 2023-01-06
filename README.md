@@ -7,7 +7,7 @@
 - [minCPT](https://github.com/yasserhcn/MinCPT) : minimalist alternative to cmake, I guess it's done unless I get other idea
 - [signal-thing](https://github.com/yasserhcn/sig-analysis) : c++ program to analyse signals from SDRs, working on it when I'm not busy with uni
 
-![stats](https://github-readme-stats.vercel.app/api?username=yasserhcn&theme=transparent&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasserhcn&layout=compact)
 
 <!--
 **yasserhcn/yasserhcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
