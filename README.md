@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi
 
-- currently working on : minCPT, my personal website
-- currently learning : low level hardware, networking
+- currently working on : minCPT, signal-thing
+- currently learning : bunch of stuff including quantum computing, EE, and radio design
 
-## my projects:
-- minCPT : a minimalist alternative to cmake which can be found [here](https://github.com/yasserhcn/MinCPT)
-it is currently 70 % done
+## projects:
+- [minCPT](https://github.com/yasserhcn/MinCPT) : minimalist alternative to cmake, I guess it's done unless I get other idea
+- [signal-thing](https://github.com/yasserhcn/sig-analysis) : c++ program to analyse signals from SDRs, working on it when I'm not busy with uni
 
 <!--
 **yasserhcn/yasserhcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
